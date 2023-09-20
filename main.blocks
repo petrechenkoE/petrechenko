@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="V-Z7-SP.10y:v[.rm}uH">myImage</variable></variables><block type="device_forever" id="(pK@=c?O@yI{,L|HvP[q" x="616" y="-94"></block><block type="pxt-on-start" id="mD/R]m4MEh~QQFxV^TX^" x="0" y="0"><statement name="HANDLER"><block type="device_show_image_offset" id="%7oQowNo4SV-],ThfjXZ"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="device_build_image" id="VC.++.{~z;5q#BZ.PZ_X"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field></block></value><value name="offset"><shadow type="math_number" id="8h)]`E~B([p$,R{_Gz/-"><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="NST,rMb:DOZ=)1z`=dvH"><field name="NUM">400</field></shadow></value></block></statement></block><block type="variables_get" id="8)GL7[(]Pd9HT3EMo(Bf" disabled="true" x="208" y="65"><field name="VAR" id="V-Z7-SP.10y:v[.rm}uH">myImage</field></block></xml>
